@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dominic 👀
+## 👋 Hi, I’m Dominic
 - ❓ I’m interested in web development, embedded development, learning to program in general
 - 🌱 I’m currently learning to TDD in C and all about embedded development
 
